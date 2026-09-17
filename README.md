@@ -81,11 +81,14 @@ public class Sumit {
 
 <!-- ================= TOP LANGUAGES ================= -->
 
+
+<!-- ================= TOP LANGUAGES ================= -->
+
 ## Languages I use
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittt0-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumittt0-0&theme=github_dark" alt="Top Languages"/>
 
 </div>
 
