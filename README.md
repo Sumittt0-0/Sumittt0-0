@@ -7,10 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=just+a+guy+who+enjoys+building+things.;backend+%7C+coffee+%7C+debugging;learning+something+new+every+day;no+rush%2C+just+enjoying+the+process." alt="Typing SVG"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sumitt0-0&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -42,9 +38,8 @@ public class Sumit {
 
 - I enjoy building things and understanding how they work.
 - Exploring backend development and system design.
-- Learning Java, Python, and Go.
+- Learning Java and backend technologies.
 - Solving problems and occasionally creating new ones.
-- Big fan of anime, superheroes, and late-night coding.
 
 > somewhere between debugging and daydreaming.
 
@@ -56,7 +51,7 @@ public class Sumit {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,go,cpp,c,js,ts,react,nodejs,express,spring,fastapi,postgres,mongodb,redis,docker,kubernetes,git,github,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,fastapi,postgres,mongodb,redis,docker,kubernetes,git,github,kafka&perline=9"/>
 
 </div>
 
@@ -66,16 +61,9 @@ public class Sumit {
 
 ## Currently learning
 
-<div align="center">
-
-| | |
-|---|---|
-| Backend | Java • Spring Boot • Python • Go |
-| Databases | PostgreSQL • MongoDB • Redis |
-| Exploring | System Design • APIs • Distributed Systems |
-| Dev Tools | Docker • Kubernetes • Git |
-
-</div>
+- Backend development with Spring Boot, FastAPI & Express
+- APIs, databases, caching & system design
+- Docker, Kubernetes & Kafka
 
 <br/>
 
@@ -91,56 +79,15 @@ public class Sumit {
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= TOP LANGUAGES ================= -->
 
-## A little GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sumitt0-0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitt0-0&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Sumitt0-0&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<!-- ================= INTERACTIVE SECTION ================= -->
-
-## A few more things
-
-<details>
-<summary>Click if you're curious</summary>
-
-<br/>
-
-- Anime and superheroes are always a good combination.
-- Iron Man, Spider-Man, and Thor fan.
-- Enjoys exploring new technologies.
-- Sometimes the best debugging strategy is taking a break.
-- Still learning, still experimenting.
-
-</details>
-
-<br/>
-
-<!-- ================= SNAKE GAME ================= -->
-
-## Just for fun
+## Languages I use
 
 <div align="center">
 
-🐍 **Snake Game**
-
-A little game for a little break from coding.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitt0-0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-> Want to play Snake? Add a Snake game to your profile repository as a separate HTML page or use a GitHub Pages mini-game.
 
 <br/>
 
